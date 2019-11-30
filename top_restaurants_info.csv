@@ -1,0 +1,20 @@
+﻿Zirport ID,Name,City,Country ,IATA,ICAO,Latitude,Longitude,Altidude,Time Zone,DST,Database time zone,Type of Airport,Source,Restaurant,Terminal
+3459,Dane County Regional Truax Field,Madison,United States,MSN,KMSN,43.14,-89.34,887,-6,A,America/Chicago,airport,OurAirports,Mad Town Gastropub,Central Food Court
+3462,Phoenix Sky Harbor International Airport,Phoenix,United States,PHX,KPHX,33.43,-112.01,1135,-7,N,America/Phoenix,airport,OurAirports,Christopher's,Terminal 3
+3469,San Francisco International Airport,San Francisco,United States,SFO,KSFO,37.62,-122.38,13,-8,A,America/Los_Angeles,airport,OurAirports,Manufactory Food Hall,International Terminal
+3484,Los Angeles International Airport,Los Angeles,United States,LAX,KLAX,33.94,-118.41,125,-8,A,America/Los_Angeles,airport,OurAirports,Ink Sack,"Tom Bradley International Terminal, Great Hall"
+3520,Ronald Reagan Washington National Airport,Washington,United States,DCA,KDCA,38.85,-77.04,15,-5,A,America/New_York,airport,OurAirports,Good Stuff Eatery,Terminal B
+3576,Miami International Airport,Miami,United States,MIA,KMIA,25.79,-80.29,8,-5,A,America/New_York,airport,OurAirports,Spring Chicken,"Concourse D, Near Gate D22"
+3577,Seattle Tacoma International Airport,Seattle,United States,SEA,KSEA,47.45,-122.31,433,-8,A,America/Los_Angeles,airport,OurAirports,Skillet,North Satellite
+3645,Detroit Metropolitan Wayne County Airport,Detroit,United States,DTW,KDTW,42.21,-83.35,645,-5,A,America/New_York,airport,OurAirports,Bigalora,McNamara Terminal
+3670,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,DFW,KDFW,32.9,-97.04,607,-6,A,America/Chicago,airport,OurAirports,Whitetail Bistro,Gate D22
+3673,Austin Bergstrom International Airport,Austin,United States,AUS,KAUS,30.19,-97.67,542,-6,A,America/Chicago,airport,OurAirports,The Peached Tortilla,"East Food Court, Near Gates 7 and 8"
+3682,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,ATL,KATL,33.64,-84.43,1026,-5,A,America/New_York,airport,OurAirports,One Flew South,Terminal E
+3720,Portland International Airport,Portland,United States,PDX,KPDX,45.59,-122.6,31,-8,A,America/Los_Angeles,airport,OurAirports,Blue Star Donuts,Pre-security Main Terminal
+3731,San Diego International Airport,San Diego,United States,SAN,KSAN,32.73,-117.19,17,-8,A,America/Los_Angeles,airport,OurAirports,The Prado,Terminal 2
+3752,Philadelphia International Airport,Philadelphia,United States,PHL,KPHL,39.87,-75.24,36,-5,A,America/New_York,airport,OurAirports,Bud and Marilyn’s,Between Terminal B and Terminal C
+3797,John F Kennedy International Airport,New York,United States,JFK,KJFK,40.64,-73.78,13,-5,A,America/New_York,airport,OurAirports,Blue Smoke,"Terminal 4, near Gate B34"
+3830,Chicago O'Hare International Airport,Chicago,United States,ORD,KORD,41.98,-87.9,672,-6,A,America/Chicago,airport,OurAirports,Publican Tavern,Terminal 3
+3849,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,United States,BWI,KBWI,39.18,-76.67,146,-5,A,America/New_York,airport,OurAirports,Obrycki's,Concourse B between gates B-7 and B-9; Concourse A next to gate A-10
+3858,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,MSP,KMSP,44.88,-93.22,841,-6,A,America/Chicago,airport,OurAirports,LoLo,"Terminal 1, Concourse E"
+3877,McCarran International Airport,Las Vegas,United States,LAS,KLAS,36.08,-115.15,2181,-8,A,America/Los_Angeles,airport,OurAirports,Metro Pizza,D Gates
